@@ -1,6 +1,9 @@
 __pycache__/
 *.pyc
+build/
+dist/
+*.spec
+icono.ico
+*.db
 .pytest_cache/
-.venv/
-venv/
 ~$*.xlsx
